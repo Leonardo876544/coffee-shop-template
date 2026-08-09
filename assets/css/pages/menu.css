@@ -1,0 +1,308 @@
+/*
+========================================
+SECTION: MENU.CSS
+========================================
+*/
+
+/*
+========================================
+HEADER
+========================================
+*/
+
+.header{
+
+    padding: 1.5rem;
+
+}
+
+/*
+========================================
+ABOUT HERO
+========================================
+*/
+
+.menu-hero{
+
+    min-height: 80vh;
+
+    border-radius: 2rem;
+
+    overflow: hidden;
+
+    display: flex;
+
+    align-items: center;
+}
+
+/*
+========================================
+HERO
+========================================
+*/
+
+.hero-menu {
+
+    margin-top: 5rem;
+
+}
+
+.subtitle{
+
+    color: #C8A27A;
+
+    font-size: 0.9rem;
+
+    letter-spacing: 0.2rem;
+
+    text-transform: uppercase;
+}
+
+.hero-menu h1{
+
+    font-size: 3rem;
+
+    font-family: 'Playfair Display', serif;
+
+    line-height: 1.1;
+
+    margin-top: 1rem;
+}
+
+.hero-menu p{
+
+    margin-top: 1.5rem;
+
+    color: #B8ADA4;
+
+    line-height: 1.7;
+}
+
+/*
+========================================
+CATEGORY NAV
+========================================
+*/
+
+.category-nav{
+
+    display: flex;
+
+    gap: 1rem;
+
+    overflow-x: auto;
+
+    padding: 1rem 1.5rem;
+
+    margin-top: 4rem;
+}
+
+.category-nav a{
+
+    background-color: #2A1F1A;
+
+    padding: 0.8rem 1.4rem;
+
+    border-radius: 999px;
+
+    white-space: nowrap;
+
+    transition: 0.3s;
+}
+
+.category-nav a:hover{
+
+    background-color: #6F4E37;
+
+}
+
+/*
+========================================
+MENU SECTION
+========================================
+*/
+
+.menu-section{
+
+    padding: 4rem 1.5rem;
+
+}
+
+/*
+========================================
+SECTION TITLE
+========================================
+*/
+
+.section-title span{
+
+    color: #C8A27A;
+
+    text-transform: uppercase;
+
+    letter-spacing: 0.15rem;
+
+    font-size: 0.8rem;
+}
+
+.section-title h2{
+
+    font-size: 2rem;
+
+    margin-top: 0.5rem;
+
+    font-family: 'Playfair Display', serif;
+}
+
+/*
+========================================
+MENU GRID
+========================================
+*/
+
+.menu-grid{
+
+    display: grid;
+
+    gap: 2rem;
+
+    margin-top: 2.5rem;
+}
+
+/*
+========================================
+MENU CARD
+========================================
+*/
+
+.menu-card{
+    
+    background-color: #2A1F1A;
+
+    border-radius: 1.5rem;
+
+    overflow: hidden;
+
+    transition: 0.3s;
+}
+
+.menu-card:hover{
+
+    transform: translateY(-5px);
+}
+
+/*
+========================================
+CARD IMAGE
+========================================
+*/
+
+.menu-card img{
+
+    height: 250px;
+
+    object-fit: cover;
+}
+
+/*
+========================================
+CARD CONTENT
+========================================
+*/
+
+.menu-content{
+
+    padding: 1.5rem;
+
+}
+
+.menu-top{
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+}
+
+.menu-top h3{
+
+    font-size: 1.2rem;
+}
+
+.price{
+
+    color: #C8A27A;
+
+    font-weight: 600;
+}
+
+.menu-content p{
+
+    color: #B8ADA4;
+
+    line-height: 1.6;
+
+    margin-top: 1rem;
+}
+
+/*
+========================================
+BUTTON
+========================================
+*/
+
+.menu-content button{
+
+    width: 100%;
+
+    border: none;
+
+    border-radius: 999px;
+
+    padding: 1rem;
+
+    margin-top: 1.5rem;
+
+    background-color: #6F4E37;
+
+    color: white;
+
+    cursor: pointer;
+
+    transition: 0.3s;
+}
+
+.menu-content button:hover{
+
+    background-color: #8B6547;
+
+}
+
+/*
+========================================
+MEDIA QUERY 
+========================================
+*/
+
+
+@media (max-width: 480px) {
+
+    .category-nav {
+
+        gap: 0.6rem;
+
+        padding: 1rem;
+    }
+
+    .category-nav a {
+
+        padding: 0.7rem 1rem;
+
+        font-size: 0.9rem;
+    }
+}
+
+
+
+

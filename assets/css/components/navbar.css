@@ -1,0 +1,66 @@
+/*
+========================================
+SECTION: NAVBAR.CSS
+========================================
+*/
+
+/*
+========================================
+HEADER
+========================================
+*/
+
+.header{
+
+    padding: 1.5rem;
+
+}
+
+/*
+========================================
+NAVBAR
+========================================
+*/
+
+.navbar{
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 1.5rem;
+
+}
+
+.logo{
+
+    font-size: 2rem;
+
+    font-family: 'Playfair Display', serif;
+
+}
+
+.nav-links{
+
+    display: flex;
+
+    gap: 1rem;
+
+    flex-wrap: wrap;
+
+}
+
+.nav-links a{
+
+    color: #D8CCC3;
+
+    transition: 0.3s;
+
+}
+
+.nav-links a:hover{
+
+    color: white;
+    
+}
+

@@ -1,0 +1,266 @@
+/*
+========================================
+SECTION: SERVICES.CSS
+========================================
+*/
+
+/*
+========================================
+HEADER
+========================================
+*/
+
+.service-header{
+
+    padding: 1.5rem;
+}
+
+/*
+========================================
+HERO
+========================================
+*/
+
+.service-hero{
+
+    margin-top: 5rem;
+}
+
+.subtitle{
+
+    color: #C8A27A;
+
+    text-transform: uppercase;
+
+    letter-spacing: 0.2rem;
+
+    font-size: 0.8rem;
+}
+
+.service-hero h1{
+
+    font-size: 3rem;
+
+    line-height: 1.1;
+
+    margin-top: 1rem;
+
+    font-family: 'Playfair Display', serif;
+}
+
+.service-hero p{
+
+    margin-top: 1.5rem;
+
+    line-height: 1.7;
+
+    color: #B7AAA0;
+}
+
+/*
+========================================
+GLOBAL SECTION
+========================================
+*/
+
+.section-title span{
+
+    color: #C8A27A;
+
+    text-transform: uppercase;
+
+    letter-spacing: 0.15rem;
+
+    font-size: 0.8rem;
+}
+
+.section-title h2{
+
+    margin-top: 0.5rem;
+
+    font-size: 2.2rem;
+
+    font-family: 'Playfair Display', serif;
+}
+
+/*
+========================================
+SERVICES SECTION
+========================================
+*/
+
+.services-section{
+
+    padding: 5rem 1.5rem;
+
+}
+
+/*
+========================================
+SERVICES GRID
+========================================
+*/
+
+.services-grid{
+
+    display: grid;
+
+    gap: 2rem;
+
+    margin-top: 3rem;
+}
+
+/*
+========================================
+SERVICE CARD
+========================================
+*/
+
+.service-card{
+
+    background-color: #2A1F1A;
+
+    padding: 2rem;
+
+    border-radius: 2rem;
+
+    transition: 0.3s;
+}
+
+.service-card:hover{
+
+    transform: translateY(-5px);
+
+}
+
+/*
+========================================
+SERVICE ICON
+========================================
+*/
+
+.service-icon{
+
+    width: 4rem;
+
+    height: 4rem;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    border-radius: 50%;
+
+    background-color: #6F4E37;
+
+    font-size: 1.4rem;
+}
+
+/*
+========================================
+SERVICE CARD CONTENT
+========================================
+*/
+
+.service-card h3{
+
+    margin-top: 1.5rem;
+
+    font-size: 1.3rem;
+}
+
+.service-card p{
+
+    margin-top: 1rem;
+
+    line-height: 1.7;
+
+    color: #B7AAA0;
+}
+
+/*
+========================================
+EXPERIENCE SECTION
+========================================
+*/
+
+.experience-section{
+
+    padding: 0 1.5rem 5rem;
+
+}
+
+.experience-section img{
+
+    border-radius: 2rem;
+
+    height: 300px;
+
+    object-fit: cover;
+}
+
+/*
+========================================
+EXPERIENCE CONTENT
+========================================
+*/
+
+.experience-content{
+
+    margin-top: 2rem;
+
+}
+
+.experience-content h2{
+
+    margin-top: 1rem;
+
+    font-size: 2.2rem;
+
+    line-height: 1.2;
+
+    font-family: 'Playfair Display', serif;
+}
+
+.experience-content p{
+
+    margin-top: 1.5rem;
+
+    line-height: 1.7;
+
+    color: #B7AAA0;
+}
+
+/*
+========================================
+BUTTON
+========================================
+*/
+
+.experience-content button{
+
+    margin-top: 2rem;
+
+    border: none;
+
+    border-radius: 999px;
+
+    padding: 1rem 2rem;
+
+    background-color: #6F4E37;
+
+    color: white;
+
+    cursor: pointer;
+
+    transition: 0.3s;
+}
+
+.experience-content button:hover{
+
+    background-color: #8B6547;
+    
+}
+
