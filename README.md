@@ -70,6 +70,7 @@ project/
 ├── about.html
 ├── menu.html
 ├── gallery.html
+├── services.html
 ├── contact.html
 │
 ├── README.md
