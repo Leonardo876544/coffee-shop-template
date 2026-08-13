@@ -35,7 +35,7 @@ ABOUT HERO
         rgba(0,0,0,0.6),
         rgba(0,0,0,0.6)
     ),
-    url('/assets/images/about/croissants.jpg');
+    url('../../images/about/croissants.jpg');
 
     background-size: cover;
 
