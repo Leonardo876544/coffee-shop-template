@@ -25,6 +25,12 @@ Below is a preview of the homepage.
 
 ---
 
+## 🌐 Live Demo 
+
+[View Live Demo] (https://leonardo876544.github.io/coffee-shop-template/)
+
+---
+
 ## ✨ Features
 
 - Responsive design
