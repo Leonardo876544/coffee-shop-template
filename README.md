@@ -60,6 +60,13 @@ Below is a preview of the homepage.
 - Font Awesome
 
 ---
+# ⚠️ Important 
+
+This is a front-end website template. Backend functionality is not included.
+
+The images used in the demo are for demonstration purposes and may need to be replaced with the buyer's own images and licensed assets.
+
+---
 
 ## 📁 Project Structure
 
