@@ -30,6 +30,26 @@ Below is a preview of the homepage.
 [View Live Demo] (https://leonardo876544.github.io/coffee-shop-template/)
 
 ---
+## What's Included
+
+- 6 responsive HTML pages
+- CSS stylesheets
+- JavaScript functionality
+- Gallery filtering
+- Responsive navigation
+- Local image assets
+- Preview images
+- Documentation
+- MIT License
+- 
+---
+## Requirements
+
+No framwworks or build tools are required.
+
+The template can be edited using any code editor and opened directly in a modern web browser.
+
+---
 
 ## ✨ Features
 
@@ -62,7 +82,7 @@ Below is a preview of the homepage.
 ---
 # ⚠️ Important 
 
-This is a front-end website template. Backend functionality is not included.
+This template does not include a backend, database, authentication system, payment processing, or functional online ordering system.
 
 The images used in the demo are for demonstration purposes and may need to be replaced with the buyer's own images and licensed assets.
 
