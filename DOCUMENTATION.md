@@ -292,33 +292,43 @@ but credit is provided to acknowledge the original contributors.
 
 | Image | Contributor | Source |
 |---|---|---|
-# images-hero
-| cappuccino.webp | Contributor Name | [Pixabay](IMAGE_URL) |
-| hero-1.webp | Contributor Name | [Pixabay](IMAGE_URL) |
-| hero-2.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+### images-hero
+| cappuccino.webp | Contributor Alexas_Fotos | [Pixabay](https://pixabay.com/illustrations/drink-coffee-caffeine-cup-8770621/) |  
+
+| hero-1.webp | Contributor honbliss | [Pixabay](https://pixabay.com/photos/coffee-americano-beans-food-break-3740012/) |  
+
+| hero-2.webp | Contributor Max_Dormann | [Pixabay](https://pixabay.com/photos/coffee-cappuccino-barista-caffeine-8388244/) |
+
 | hero-3.webp | Contributor Name | [Pixabay](IMAGE_URL) |
 
-# images-about
+### images-about
 | about-1.jpg | Contributor Name | [Pixabay](IMAGE_URL) |
-| about-2.jpg | Contributor Name | [Pixabay](IMAGE_URL) |
+
+| about-2.jpg | Contributor anncapictures | [Pixabay](https://pixabay.com/photos/coffee-coffee-pot-good-morning-1179878/) |
+
 | croissants.jpg | Contributor Name | [Pixabay](IMAGE_URL) |
 
-# images-menu
+### images-menu
 | brownie.jpg | Contributor Name | [Pixabay](IMAGE_URL) |
+
 | bundt-cake.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
 | cold-brew.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
 | cookie.jpg | Contributor Name | [Pixabay](IMAGE_URL) |
+
 | croissant.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
 | iced-latte.webp | Contributor Name | [Pixabay](IMAGE_URL) |
 
-# images-gallery
+### images-gallery
 | --- gallery --- |
 | gallery-banner.webp | Contributor Name | [Pixabay](IMAGE_URL) |
 | --- gallery-atmosphere --- |
 | atmosphere-1.webp | Contributor Name | [Pixabay](IMAGE_URL) |
 | atmosphere-2.webp | Contributor Name | [Pixabay](IMAGE_URL) |
 | atmosphere-3.webp | Contributor Name | [Pixabay](IMAGE_URL) |
-| atmosphere-4.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| atmosphere-4.webp | Contributor lorilorilo | [Pixabay](https://pixabay.com/photos/coffee-brew-aroma-beans-fresh-6566645/) |
 | atmosphere-5.webp | Contributor Name | [Pixabay](IMAGE_URL) |
 | atmosphere-6.webp | Contributor Name | [Pixabay](IMAGE_URL) |
 | --- gallery-breakfast --- |
@@ -329,12 +339,17 @@ but credit is provided to acknowledge the original contributors.
 | breakfast-5.webp | Contributor Name | [Pixabay](IMAGE_URL) |
 | breakfast-6.webp | Contributor Name | [Pixabay](IMAGE_URL) |
 | --- gallery-coffee --- |
-| coffee-1.webp | Contributor Name | [Pixabay](IMAGE_URL) |
-| coffee-2.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| coffee-1.webp | Contributor mammela | [Pixabay](https://pixabay.com/photos/coffee-breakfast-cup-pot-722270/) |
+
+| coffee-2.webp | Contributor subarasikiai | [Pixabay](https://pixabay.com/photos/brewed-coffee-coffee-hot-water-pour-6774915/) |
+
 | coffee-3.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
 | coffee-4.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
 | coffee-5.webp | Contributor Name | [Pixabay](IMAGE_URL) |
-| coffee-6.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
+| coffee-6.webp | Contributor Be_Stasya | [Pixabay](https://pixabay.com/photos/coffee-milk-cappuccino-drink-caf%C3%A9-4862622/) |
 | --- gallery-desserts --- |
 | desserts-1.webp | Contributor Name | [Pixabay](IMAGE_URL) |
 | desserts-2.webp | Contributor Name | [Pixabay](IMAGE_URL) |
@@ -343,7 +358,7 @@ but credit is provided to acknowledge the original contributors.
 | desserts-5.webp | Contributor Name | [Pixabay](IMAGE_URL) |
 | desserts-6.webp | Contributor Name | [Pixabay](IMAGE_URL) |
 
- # Images-services 
+ ### Images-services 
 | services-1.png | Contributor Name | [Pixabay](IMAGE_URL) |
 
 All Pixabay content remains subject to the Pixabay Content License.
