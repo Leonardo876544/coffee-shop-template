@@ -281,6 +281,75 @@ The following elements can be changed:
 
 ---
 
+## Image Credits
+
+The images used in this template were sourced from Pixabay.
+
+Attribution is not required under the Pixabay Content License,
+but credit is provided to acknowledge the original contributors.
+
+### Image Sources
+
+| Image | Contributor | Source |
+|---|---|---|
+# images-hero
+| cappuccino.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| hero-1.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| hero-2.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| hero-3.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
+# images-about
+| about-1.jpg | Contributor Name | [Pixabay](IMAGE_URL) |
+| about-2.jpg | Contributor Name | [Pixabay](IMAGE_URL) |
+| croissants.jpg | Contributor Name | [Pixabay](IMAGE_URL) |
+
+# images-menu
+| brownie.jpg | Contributor Name | [Pixabay](IMAGE_URL) |
+| bundt-cake.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| cold-brew.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| cookie.jpg | Contributor Name | [Pixabay](IMAGE_URL) |
+| croissant.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| iced-latte.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
+# images-gallery
+| --- gallery --- |
+| gallery-banner.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| --- gallery-atmosphere --- |
+| atmosphere-1.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| atmosphere-2.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| atmosphere-3.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| atmosphere-4.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| atmosphere-5.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| atmosphere-6.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| --- gallery-breakfast --- |
+| breakfast-1.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| breakfast-2.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| breakfast-3.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| breakfast-4.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| breakfast-5.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| breakfast-6.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| --- gallery-coffee --- |
+| coffee-1.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| coffee-2.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| coffee-3.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| coffee-4.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| coffee-5.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| coffee-6.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| --- gallery-desserts --- |
+| desserts-1.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| desserts-2.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| desserts-3.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| desserts-4.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| desserts-5.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| desserts-6.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
+ # Images-services 
+| services-1.png | Contributor Name | [Pixabay](IMAGE_URL) |
+
+All Pixabay content remains subject to the Pixabay Content License.
+
+---
+
 ## Support
 
 For custom development, backend integration or additional functionality, additional development work may be required.
