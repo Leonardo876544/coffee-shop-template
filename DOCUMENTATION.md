@@ -299,17 +299,17 @@ but credit is provided to acknowledge the original contributors.
 
 | hero-2.webp | Contributor Max_Dormann | [Pixabay](https://pixabay.com/photos/coffee-cappuccino-barista-caffeine-8388244/) |
 
-| hero-3.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| hero-3.webp | Contributor kingai | [Pixabay](https://pixabay.com/pt/illustrations/ai-gerado-caf%C3%A9-expresso-cafe%C3%ADna-9638641/) |
 
 ### images-about
-| about-1.jpg | Contributor Name | [Pixabay](IMAGE_URL) |
+| about-1.jpg | Contributor pachecoytalo | [Pixabay](https://pixabay.com/pt/photos/artisan-coffee-latte-art-9599155/) |
 
 | about-2.jpg | Contributor anncapictures | [Pixabay](https://pixabay.com/photos/coffee-coffee-pot-good-morning-1179878/) |
 
-| croissants.jpg | Contributor Name | [Pixabay](IMAGE_URL) |
+| croissants.jpg | Contributor CagnoDiMediaProduction | [Pixabay](https://pixabay.com/pt/photos/croissant-caf%C3%A9-da-manh%C3%A3-comida-4806337/) |
 
 ### images-menu
-| brownie.jpg | Contributor Name | [Pixabay](IMAGE_URL) |
+| brownie.jpg | Contributor StockSnap | [Pixabay](https://pixabay.com/pt/photos/chocolate-brownies-comida-doces-2560177/) |
 
 | bundt-cake.webp | Contributor Name | [Pixabay](IMAGE_URL) |
 
@@ -317,9 +317,9 @@ but credit is provided to acknowledge the original contributors.
 
 | cookie.jpg | Contributor Name | [Pixabay](IMAGE_URL) |
 
-| croissant.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| croissant.webp | Contributor theplanetbaker | [Pixabay](https://pixabay.com/pt/photos/croissant-caseiro-croissant-padaria-4709235/) |
 
-| iced-latte.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| iced-latte.webp | Contributor honbliss | [Pixabay](https://pixabay.com/pt/photos/caf%C3%A9-americano-feij%C3%B5es-alimentos-3740012/) |
 
 ### images-gallery
 | --- gallery --- |
