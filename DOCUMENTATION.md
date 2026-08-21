@@ -326,19 +326,31 @@ but credit is provided to acknowledge the original contributors.
 | gallery-banner.webp | Contributor Name | [Pixabay](IMAGE_URL) |
 | --- gallery-atmosphere --- |
 | atmosphere-1.webp | Contributor Name | [Pixabay](IMAGE_URL) |
-| atmosphere-2.webp | Contributor Name | [Pixabay](IMAGE_URL) |
-| atmosphere-3.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
+| atmosphere-2.webp | Contributor Madun_Digital | [Pixabay](https://pixabay.com/pt/photos/loja-de-caf%C3%A9-dentro-de-casa-393954/) |
+
+| atmosphere-3.webp | Contributor Iffany | [Pixabay](https://pixabay.com/pt/illustrations/ai-gerado-cafeteria-caf%C3%A9-cafe%C3%ADna-8650286/) |
+
 | atmosphere-4.webp | Contributor lorilorilo | [Pixabay](https://pixabay.com/photos/coffee-brew-aroma-beans-fresh-6566645/) |
-| atmosphere-5.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
+| atmosphere-5.webp | Contributor StockSnap | [Pixabay](https://pixabay.com/pt/photos/de-madeira-tabela-cafeteria-2594768/) |
+
 | atmosphere-6.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
 | --- gallery-breakfast --- |
 | breakfast-1.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
 | breakfast-2.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
 | breakfast-3.webp | Contributor Name | [Pixabay](IMAGE_URL) |
-| breakfast-4.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
+| breakfast-4.webp | Contributor Pexels | [Pixabay](https://pixabay.com/pt/photos/feij%C3%A3o-caf%C3%A9-da-manh%C3%A3-ovos-fritos-1834984/) |
 | breakfast-5.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
 | breakfast-6.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
 | --- gallery-coffee --- |
+
 | coffee-1.webp | Contributor mammela | [Pixabay](https://pixabay.com/photos/coffee-breakfast-cup-pot-722270/) |
 
 | coffee-2.webp | Contributor subarasikiai | [Pixabay](https://pixabay.com/photos/brewed-coffee-coffee-hot-water-pour-6774915/) |
@@ -350,12 +362,19 @@ but credit is provided to acknowledge the original contributors.
 | coffee-5.webp | Contributor Name | [Pixabay](IMAGE_URL) |
 
 | coffee-6.webp | Contributor Be_Stasya | [Pixabay](https://pixabay.com/photos/coffee-milk-cappuccino-drink-caf%C3%A9-4862622/) |
+
 | --- gallery-desserts --- |
-| desserts-1.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
+| desserts-1.webp | Contributor RitaE | [Pixabay](https://pixabay.com/pt/photos/sobremesa-vidro-de-doce-prato-doce-1079759/) |
+
 | desserts-2.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
 | desserts-3.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
 | desserts-4.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
 | desserts-5.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+
 | desserts-6.webp | Contributor Name | [Pixabay](IMAGE_URL) |
 
  ### Images-services 
