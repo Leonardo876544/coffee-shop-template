@@ -375,7 +375,7 @@ but credit is provided to acknowledge the original contributors.
 
 | desserts-5.webp | Contributor Name | [Pixabay](IMAGE_URL) |
 
-| desserts-6.webp | Contributor Name | [Pixabay](IMAGE_URL) |
+| desserts-6.webp | Contributor paulitasolange | [Pixabay](https://pixabay.com/pt/photos/sobremesa-do%C3%A7ura-lanche-5804153/) |
 
  ### Images-services 
 | services-1.png | Contributor Name | [Pixabay](IMAGE_URL) |
